@@ -1,0 +1,11 @@
+body {
+    height: 100vh;
+}
+
+#top-section {
+    height: 100%;
+}
+
+#top-container {
+    min-height: 100%;
+}
